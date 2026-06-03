@@ -7,7 +7,7 @@ license = "Apache-2.0"
 authors = [
     { name = "Guido Appenzeller", email = "guido@appenzeller.net" }
 ]
-requires-python = ">=3.13"
+requires-python = ">=3.10"
 keywords = ["macos", "calendar", "eventkit", "pyobjc"]
 classifiers = [
     "Development Status :: 5 - Production/Stable",
